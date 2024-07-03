@@ -16936,3 +16936,6 @@ Values range from 0 to 10; 10 is best.
 
 This metric is part of Bloomberg's Environmental, Social and Governance (ESG) financial materiality scores model. For more information please refer to Bloomberg ESG Scoring methodology documents.",Score,Ad hoc,Governance,Audit & Oversight,From 2015,44835,2023,G Score
 IS010,N.A.,N.A.,N.A.,N.A.,N.A.,N.A.,N.A.,N.A.,N.A.,N.A.,Sales
+ES644,CDP_BASE_YEAR_ABSOLUTE_TARGET,,,Percentage,,N.A.,N.A.,N.A.,N.A.,current,Net zero
+ES645,CDP_BASE_YR_EMISSIONS_ABS_TARGET,,,Percentage,,N.A.,N.A.,N.A.,N.A.,current,Net zero
+ES646,CDP_TARGET_YEAR_ABSOLUTE_TARGET,,,Percentage,,N.A.,N.A.,N.A.,N.A.,current,Net zero
