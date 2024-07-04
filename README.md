@@ -91,6 +91,7 @@ This project aims to create a tool that allows investors and investment advisors
 
 ## 5. Data Architecture
 - Diagram illustrating data flow and connections.
+<<<<<<< HEAD
 
 ![Diagrama](./images/ESG.drawio.png)
 
@@ -103,6 +104,10 @@ This project aims to create a tool that allows investors and investment advisors
 
 
 ## 7. Next Steps
+=======
+  
+## 6. Next Steps
+>>>>>>> b70307d61109b0530afa7c7b3e99a1162f3e03ec
 - Expand industries beyond current coverage (Semiconductors, Automobiles, Software).
 - Further delve into potential risks and opportunities.
 - Implement portfolio aggregation and scoring capabilities.
@@ -110,10 +115,15 @@ This project aims to create a tool that allows investors and investment advisors
 
 This detailed plan sets a strong foundation for developing a comprehensive ESG analysis tool, providing investors and advisors with insights into both financial performance and the broader environmental, social, and governance impacts of their investments.
 
+<<<<<<< HEAD
 
 
 ### :file_folder: **Folder structure**
 ```
+=======
+📁 Folder structure
+
+>>>>>>> b70307d61109b0530afa7c7b3e99a1162f3e03ec
 └── Final_Project
     ├── .gitignore
     ├── README.md
@@ -142,5 +152,13 @@ This detailed plan sets a strong foundation for developing a comprehensive ESG a
     │  database
     │ 
     └── images
+
+   ``` 
+<<<<<<< HEAD
 ```
         
+=======
+
+
+        
+>>>>>>> b70307d61109b0530afa7c7b3e99a1162f3e03ec
