@@ -1,4 +1,4 @@
-# Final_Proyect
+# Final_Project
 # ESG Analysis Tool Project
 
 This project aims to create a tool that allows investors and investment advisors to conduct analysis from an ESG (Environmental, Social, and Governance) perspective, generate an ESG score for each company, and review the evolution of their emissions.
@@ -86,10 +86,23 @@ This project aims to create a tool that allows investors and investment advisors
      - projections: Future emission projections.
      - Selectable Columns: Table enabling selection of specific columns.
 
+  ![Diagrama](./images/diagrama.JPG)
+  
+
 ## 5. Data Architecture
 - Diagram illustrating data flow and connections.
 
-## 6. Next Steps
+![Diagrama](./images/ESG.drawio.png)
+
+## 6. Dashboard
+![ESG](./images/ESG.)
+![Enviromental](./images/ESG.)
+![Social](./images/ESG.)
+![Governance](./images/)
+![Emissions](./images/)
+
+
+## 7. Next Steps
 - Expand industries beyond current coverage (Semiconductors, Automobiles, Software).
 - Further delve into potential risks and opportunities.
 - Implement portfolio aggregation and scoring capabilities.
@@ -99,7 +112,8 @@ This detailed plan sets a strong foundation for developing a comprehensive ESG a
 
 
 
-📁 Folder structure
+### :file_folder: **Folder structure**
+```
 └── Final_Project
     ├── .gitignore
     ├── README.md
@@ -128,6 +142,5 @@ This detailed plan sets a strong foundation for developing a comprehensive ESG a
     │  database
     │ 
     └── images
-
-
+```
         
