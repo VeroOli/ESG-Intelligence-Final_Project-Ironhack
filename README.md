@@ -88,6 +88,7 @@ This project aims to create a tool that allows investors and investment advisors
 
 ## 5. Data Architecture
 - Diagram illustrating data flow and connections.
+  
   ![Diagrama](./images/ESG.drawio.png)
   
 ## 6. Next Steps
@@ -97,8 +98,6 @@ This project aims to create a tool that allows investors and investment advisors
 - Quantify opportunities and risks for incorporation into company valuations.
 
 This detailed plan sets a strong foundation for developing a comprehensive ESG analysis tool, providing investors and advisors with insights into both financial performance and the broader environmental, social, and governance impacts of their investments.
-
-
 
 📁 Folder structure
 
