@@ -100,6 +100,7 @@ This detailed plan sets a strong foundation for developing a comprehensive ESG a
 
 
 📁 Folder structure
+
 └── Final_Project
     ├── .gitignore
     ├── README.md
