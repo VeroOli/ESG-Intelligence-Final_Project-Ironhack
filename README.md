@@ -88,6 +88,7 @@ This project aims to create a tool that allows investors and investment advisors
 
 ## 5. Data Architecture
 - Diagram illustrating data flow and connections.
+  ![Ironhack logo](C:\Users\Veronica\M3\Final_Proyect\images\ESG.drawio)
 
 ## 6. Next Steps
 - Expand industries beyond current coverage (Semiconductors, Automobiles, Software).
