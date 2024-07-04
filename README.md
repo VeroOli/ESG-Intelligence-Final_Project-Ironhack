@@ -89,8 +89,6 @@ This project aims to create a tool that allows investors and investment advisors
 ## 5. Data Architecture
 - Diagram illustrating data flow and connections.
   
-  ![Diagrama](./images/ESG.drawio.png)
-  
 ## 6. Next Steps
 - Expand industries beyond current coverage (Semiconductors, Automobiles, Software).
 - Further delve into potential risks and opportunities.
