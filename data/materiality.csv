@@ -1,26 +1,26 @@
-﻿Type,Issue,Score Field ID,Field Name,Automobiles,Semiconductors
-Environmental,Air Quality,SR208,Air Quality Issue Score,,
-Environmental,Climate Exposure,SR235,Climate Exposure Issue Score,0.25,
-Environmental,Ecological Impact,SR231,Ecological Impact Issue Score,,
-Environmental,Energy Management,SR205,Energy Management Issue Score,,0.3
-Environmental,Environmental Supply Chain Management,SR249,Environmental Supply Chain Issue Score,,
-Environmental,GHG Emissions Management,SR200,GHG Emissions Management Issue Score,0.25,0.13
-Environmental,Sustainable Finance,ST024,Sustainable Finance Issue Score,,
-Environmental,Sustainable Product,SR238,Sustainable Product Issue Score,0.35,0.16
-Environmental,Waste Management,SR211,Waste Management Issue Score,0.15,0.11
-Environmental,Water Management,SR217,Water Management Issue Score,,0.3
-Social,Access & Affordability,SR752,Access and Affordability Issue Score,,
-Social,Community Rights & Relations,SR715,Comm Rights and Relations Issue Score,0.05,0.03
-Social,Customer Welfare,SR754,Customer Welfare Issue Score,,
-Social,Data Security & Customer Privacy,SR756,Data Sec and Customer Issue Score,,
-Social,Ethics & Compliance,SR727,Ethics and Compliance Issue Score,0.2,0.19
-Social,Labor & Employment Practices,SR718,Labor and Employment Practices Issue Score,0.3,0.16
-Social,Marketing & Labeling,SR760,Marketing and Labeling Issue Score,,
-Social,Occupational Health & Safety Management,SR711,Occupational Health and Safety Mgmt Issue Scr,,0.36
-Social,Operational Risk Management,SR724,Operational Risk Management Issue Score,,
-Social,Product Quality Management,SR731,Product Quality Management Issue Score,0.45,0.26
-Social,Social Supply Chain Management,SR721,Social Supply Chain Issue Score,,
-Governance,Board Composition,SR005,Board Composition Score,0.36,0.36
-Governance,Executive Compensation,SR035,Executive Compensation Score,0.24,0.24
-Governance,Shareholder Rights,SR064,Shareholder Rights Theme Score,0.24,0.24
-Governance,Audit,SR084,Audit Theme Score,0.16,0.16
+﻿Type,Issue,Score Field ID,Field Name,Automobiles,Semiconductors,Software and Tech Services
+Environmental,Air Quality,SR208,Air Quality Issue Score,,,
+Environmental,Climate Exposure,SR235,Climate Exposure Issue Score,0.25,,
+Environmental,Ecological Impact,SR231,Ecological Impact Issue Score,,,
+Environmental,Energy Management,SR205,Energy Management Issue Score,,0.3,0.58
+Environmental,Environmental Supply Chain Management,SR249,Environmental Supply Chain Issue Score,,,
+Environmental,GHG Emissions Management,SR200,GHG Emissions Management Issue Score,0.25,0.13,
+Environmental,Sustainable Finance,ST024,Sustainable Finance Issue Score,,,
+Environmental,Sustainable Product,SR238,Sustainable Product Issue Score,0.35,0.16,
+Environmental,Waste Management,SR211,Waste Management Issue Score,0.15,0.11,
+Environmental,Water Management,SR217,Water Management Issue Score,,0.3,0.42
+Social,Access & Affordability,SR752,Access and Affordability Issue Score,,,
+Social,Community Rights & Relations,SR715,Comm Rights and Relations Issue Score,0.05,0.03,
+Social,Customer Welfare,SR754,Customer Welfare Issue Score,,,
+Social,Data Security & Customer Privacy,SR756,Data Sec and Customer Issue Score,,,0.37
+Social,Ethics & Compliance,SR727,Ethics and Compliance Issue Score,0.2,0.19,0.16
+Social,Labor & Employment Practices,SR718,Labor and Employment Practices Issue Score,0.3,0.16,0.2
+Social,Marketing & Labeling,SR760,Marketing and Labeling Issue Score,,,
+Social,Occupational Health & Safety Management,SR711,Occupational Health and Safety Mgmt Issue Scr,,0.36,
+Social,Operational Risk Management,SR724,Operational Risk Management Issue Score,,,0.27
+Social,Product Quality Management,SR731,Product Quality Management Issue Score,0.45,0.26,
+Social,Social Supply Chain Management,SR721,Social Supply Chain Issue Score,,,
+Governance,Board Composition,SR005,Board Composition Score,0.36,0.36,0.36
+Governance,Executive Compensation,SR035,Executive Compensation Score,0.24,0.24,0.24
+Governance,Shareholder Rights,SR064,Shareholder Rights Theme Score,0.24,0.24,0.24
+Governance,Audit,SR084,Audit Theme Score,0.16,0.16,0.16

@@ -95,11 +95,11 @@ This project aims to create a tool that allows investors and investment advisors
 ![Diagrama](./images/ESG.drawio.png)
 
 ## 6. Dashboard
-![ESG](./images/ESG.)
-![Enviromental](./images/ESG.)
-![Social](./images/ESG.)
-![Governance](./images/)
-![Emissions](./images/)
+![ESG](./images/ESG.JPG)
+![Enviromental](./images/Enviromental.JPG)
+![Social](./images/Social.JPG)
+![Governance](./images/Governance.JPG)
+![Emissions](./images/Emissions.JPG)
 
 
 ## 7. Next Steps
