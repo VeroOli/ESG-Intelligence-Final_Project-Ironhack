@@ -1,4 +1,4 @@
-# Final_Project
+# Final_Project/ ESG Intelligence
 # ESG Analysis Tool Project
 
 This project aims to create a tool that allows investors and investment advisors to conduct analysis from an ESG (Environmental, Social, and Governance) perspective, generate an ESG score for each company, and review the evolution of their emissions.
